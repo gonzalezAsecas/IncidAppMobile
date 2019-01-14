@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IncidAppMobile</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gui010">GUI010</string>
+    <string name="title_activity_gui013">GUI013</string>
+    <string name="txtLogin">LogIn</string>
+    <string name="hintUser">Username</string>
+    <string name="hintPassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="txtRegister">Still dont have an account?</string>
+    <string name="hlRegister">Sign Up</string>
+    <string name="txtGreeting">Welcome,</string>
+    <string name="btnLogOut">Logout</string>
+    <string name="hintFullName">Full name</string>
+    <string name="hintEmail">email@email.com</string>
+    <string name="hintRepeatPassword">Repeat password</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="txtRecoverPass">The password forgotten?</string>
+    <string name="hlRecoverPass">Recover it!</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="main.incidappmobile">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activities.GUI010"/>
+        <activity android:name=".activities.GUI011" />
+        <activity android:name=".activities.GUI012" />
+        <activity android:name=".activities.GUI013" />
+        <activity android:name=".activities.GUI014" />
+        <activity android:name=".activities.GUI001">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.GUI002"></activity>
+    </application>
+
+</manifest>
